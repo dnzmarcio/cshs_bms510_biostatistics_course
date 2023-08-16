@@ -13,9 +13,10 @@ website:
         text: Homework
       - href: readings.qmd
         text: Readings
-      - href: marciodiniz.info
+      - href: https://www.marciodiniz.info/
         text: Back to marciodiniz.info
       
+
 
 format:
   html:
@@ -25,4 +26,5 @@ format:
     
 execute:
   freeze: auto
+  link-external-newwindow: true
 
