@@ -1,1 +1,1 @@
-Sitemap: https://dnzmarcio.github.io/cshs_bms510_biostatistics_course/sitemap.xml
+Sitemap: https://github.com/dnzmarcio/cshs_bms510_biostatistics_course/sitemap.xml
