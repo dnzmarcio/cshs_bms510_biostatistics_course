@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Introduction to Biostatistics"
+  title: " BMS510 - Biostatistics"
   navbar:
     left:
       - href: index.qmd
@@ -13,6 +13,9 @@ website:
         text: Homework
       - href: readings.qmd
         text: Readings
+      - href: marciodiniz.info
+        text: Back to marciodiniz.info
+      
 
 format:
   html:

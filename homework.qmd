@@ -17,7 +17,7 @@ format:
 # Homework 02
 
 ```{=html}
-<iframe class="slide-deck" src="homework/02/homework02_instructions.html" width=600 height=400></iframe>
+<iframe class="slide-deck" src="homework/02/homework_02_instructions.html" width=600 height=400></iframe>
 ```
 
 ## Additional Files
