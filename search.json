@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Readings",
+    "section": "",
+    "text": "Translational Research\n\nPound P, Ritskes-Hoitinga M. Is it possible to overcome issues of external validity in preclinical animal research? Why most animal models are bound to fail. Journal of translational medicine. 2018 Dec;16(1):1-8.\nSchmidt‐Pogoda A, Bonberg N, Koecke MH, Strecker JK, Wellmann J, Bruckmann NM, Beuker C, Schäbitz WR, Meuth SG, Wiendl H, Minnerup H. Why most acute stroke studies are positive in animals but not in patients: a systematic comparison of preclinical, early phase, and phase 3 clinical trials of neuroprotective agents. Annals of neurology. 2020 Jan;87(1):40-51.\nAustin CP. Opportunities and challenges in translational science. Clinical and Translational Science. 2021 Sep;14(5):1629-47.\n\n\n\nReproducibility in Science\n\nBegley CG, Ioannidis JP. Reproducibility in science: improving the standard for basic and preclinical research. Circulation research. 2015 Jan 2;116(1):116-26.\nBegley CG, Ellis LM. Raise standards for preclinical cancer research. Nature. 2012 Mar;483(7391):531-3.\nErrington TM, Denis A, Perfito N, Iorns E, Nosek BA. Reproducibility in Cancer Biology: Challenges for assessing replicability in preclinical cancer biology. eLife. 2021 Dec 7;10:e67995.\n\n\n\nReporting in Pre-clinical sciences\n\n[Percie du Sert N, Ahluwalia A, Alam S, Avey MT, Baker M, Browne WJ, Clark A, Cuthill IC, Dirnagl U, Emerson M, Garner P. Reporting animal research: Explanation and elaboration for the ARRIVE guidelines 2.0. PLoS biology. 2020 Jul 14;18(7):e3000411.]\nAvey MT, Moher D, Sullivan KJ, Fergusson D, Griffin G, Grimshaw JM, Hutton B, Lalu MM, Macleod M, Marshall J, Mei SH. The devil is in the details: incomplete reporting in preclinical animal research. PLoS One. 2016 Nov 17;11(11):e0166733.\nSerghiou S, Contopoulos-Ioannidis DG, Boyack KW, Riedel N, Wallach JD, Ioannidis JP. Assessment of transparency indicators across the biomedical literature: How open is open?. PLoS biology. 2021 Mar 1;19(3):e3001107.\n\n\n\nHeterogeneity\n\nUsui T, Macleod MR, McCann SK, Senior AM, Nakagawa S. Meta-analysis of variation suggests that embracing variability improves both replicability and generalizability in preclinical research. PLoS biology. 2021 May 19;19(5):e3001009.\nVoelkl B, Vogt L, Sena ES, Würbel H. Reproducibility of preclinical animal research improves with heterogeneity of study samples. PLoS biology. 2018 Feb 22;16(2):e2003693.\nRichter SH. Systematic heterogenization for better reproducibility in animal experimentation. Lab animal. 2017 Sep;46(9):343-9.\n\n\n\nSex as Biological Variable\n\nGarcia-Sifuentes Y, Maney DL. Reporting and misreporting of sex differences in the biological sciences. eLife 2021;10:e70817\nWoitowich NC, Beery A, Woodruff T. Meta-research: a 10-year follow-up study of sex inclusion in the biological sciences. eLife. 2020 Jun 9;9:e56344.\nBeery AK. Inclusion of females does not increase variability in rodent research studies. Current opinion in behavioral sciences. 2018 Oct 1;23:143-9."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Biostatistics",
+    "section": "",
+    "text": "The website is an archive for the material that was originally created for the BMS510 - Biostatistics course offered in the Ph.D. program in Biomedical Sciences at Cedars-Sinai Medical Center from 2016 to 2022. It has received contributions from several colleagues along of the years, in special, André Rogatko, Quanlin-Li and Michael Luu.\nI have received the David L. Rimoin Teaching Excellence Award for Class of 2020 and 2021 as a results of these efforts.\n\nLectures on Statistical Concepts\nEvery living organism in the universe gathers information from the environment and makes decisions. Good decisions are rewarded with survival. Statistical science main objects of study are how to summarize, interpret information and make decisions. This places statistics in the core of all sciences. - André Rogatko\nThe goal of this module is to introduce fundamental probability and statistical concepts used to design and analyze studies and experiments. You will learn how your opinion should change on the basis of data; how to estimate values of interest; what uncertainty is attached to these values; how to improve the efficiency of your investigations; and how your imperfect information should be used to make decisions for action. The preferred approach will be by presenting motivating case studies.\n\n\nHands on Statistical Programming with R\nR is a language and environment for statistical computing and graphics. R provides a wide variety of statistical (e.g., classical statistical tests, Bayesian analysis, linear modelling) and graphical techniques, and is highly extensible. The S language is often the vehicle of choice for research in statistical methodology, and R provides an Open Source route to participation in that activity.\nOne of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. Great care has been taken over the defaults for the minor design choices in graphics, but the user retains full control.\nR is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.\n\n\nLearning Objectives\nAll students completing the Biostatistics Course are expected to have acquired the following knowledge and skills on: 1. How statistical methods play a fundamental role in reproducibility in science;\n\nHow to critically read statistical components of scientific papers;\nHow to manage and describe experimental data;\nHow to make decisions and interpret results of statistical analyses;\nHow to interact with statisticians.\n\n\n\nInstructors\nMarcio A. Diniz - marcio.diniz@mountsinai.org\nMichael Luu - michael.luu@cshs.org\n\n\nUseful links\n\nhttp://www.nature.com/collections/qghhqm/\nhttp://www.ats.ucla.edu/stat/\nhttp://r4ds.had.co.nz/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "homework.html",
+    "href": "homework.html",
+    "title": "Homework",
+    "section": "",
+    "text": "Data"
+  },
+  {
+    "objectID": "homework.html#additional-files",
+    "href": "homework.html#additional-files",
+    "title": "Homework",
+    "section": "",
+    "text": "Data"
+  },
+  {
+    "objectID": "homework.html#additional-files-1",
+    "href": "homework.html#additional-files-1",
+    "title": "Homework",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nEmergency dataset"
+  },
+  {
+    "objectID": "homework.html#additional-files-2",
+    "href": "homework.html#additional-files-2",
+    "title": "Homework",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nCancer Vaccine dataset\nEmergency dataset"
+  },
+  {
+    "objectID": "homework.html#additional-files-3",
+    "href": "homework.html#additional-files-3",
+    "title": "Homework",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nEmergency dataset"
+  },
+  {
+    "objectID": "material.html#additional-files",
+    "href": "material.html#additional-files",
+    "title": "Material",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nThe Duke University scanal - What can be done?\nBasic rules to organize data sets\nExamples of data sets with issues\nSepsis data set - Long and wide formats"
+  },
+  {
+    "objectID": "material.html#additional-files-1",
+    "href": "material.html#additional-files-1",
+    "title": "Material",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nSepsis data set - Long and wide formats\nClass notes"
+  },
+  {
+    "objectID": "material.html#additional-files-2",
+    "href": "material.html#additional-files-2",
+    "title": "Material",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nEmergency dataset\nClass notes"
+  },
+  {
+    "objectID": "material.html#additional-files-3",
+    "href": "material.html#additional-files-3",
+    "title": "Material",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nEmergency dataset\nClass notes"
+  },
+  {
+    "objectID": "material.html#additional-files-4",
+    "href": "material.html#additional-files-4",
+    "title": "Material",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nTroponin dataset\nClass notes"
+  },
+  {
+    "objectID": "material.html#additional-files-5",
+    "href": "material.html#additional-files-5",
+    "title": "Material",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nCortex Nuclear dataset\nClass notes"
+  },
+  {
+    "objectID": "material.html#additional-files-6",
+    "href": "material.html#additional-files-6",
+    "title": "Material",
+    "section": "Additional Files",
+    "text": "Additional Files\n\nCancer Vaccine dataset\nClass notes"
+  }
+]
