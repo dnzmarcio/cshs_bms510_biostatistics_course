@@ -1,0 +1,100 @@
+---
+title: "Material"
+format: 
+  html:
+    toc: true
+---
+# Introduction
+
+```{=html}
+<iframe class="slide-deck" src="material/01_introduction/introduction_slides.html" width=600 height=400></iframe>
+```
+
+# Datasets
+
+```{=html}
+<iframe class="slide-deck" src="material/02_datasets/datasets_slides.html" width=600 height=400></iframe>
+```
+
+
+## Additional Files
+- [The Duke University scanal - What can be done?](material/02_datasets/additional_reading/DukeScandal.pdf)
+- [Basic rules to organize data sets](material/02_datasets/additional_reading/basic_rules_to_organize_datasets.pdf)
+- [Examples of data sets with issues](material/02_datasets/examples_datasets.zip)
+- [Sepsis data set - Long and wide formats](material/02_datasets/sepsis_dataset.zip)
+
+# R Basics
+
+```{=html}
+<iframe class="slide-deck" src="material/03_r_basics/r_basics_slides.html" width=600 height=400></iframe>
+```
+
+# Data Manipulation
+
+```{=html}
+<iframe class="slide-deck" src="material/04_data_manipulation/cshs-bms510-data-manipulation-slides.html" width=600 height=400></iframe>
+```
+
+## Additional Files
+- [Sepsis data set - Long and wide formats](material/04_data_manipulation/sepsis_dataset.zip)
+- [Class notes](material/04_data_manipulation/cshs-bms510-data-manipulation-notes.html)
+
+# Descriptive Analysis
+
+```{=html}
+<iframe class="slide-deck" src="material/05_descriptive_analysis/descriptive_analysis_slides.html" width=600 height=400></iframe>
+```
+
+## Additional Files
+- [Emergency dataset](material/05_descriptive_analysis/emergency_dataset.zip)
+- [Class notes](material/05_data_manipulation/descriptive_tables_notes.html)
+
+# ggplot2
+
+```{=html}
+<iframe class="slide-deck" src="material/06_ggplot/cshs-bms510-ggplot2-slides.html" width=600 height=400></iframe>
+```
+
+## Additional Files
+- [Emergency dataset](material/06_ggplot/emergency_dataset.zip)
+- [Class notes](material/06_ggplot/ggplot2_class_notes.html)
+
+# Probability
+
+```{=html}
+<iframe class="slide-deck" src="material/07_probability/probability_slides.html" width=600 height=400></iframe>
+```
+
+# Inference
+
+```{=html}
+<iframe class="slide-deck" src="material/08_inference/inference_slides.html" width=600 height=400></iframe>
+```
+
+# Test of Hypotheses
+
+```{=html}
+<iframe class="slide-deck" src="material/09_test_of_hypotheses/test_of_hypotheses_slides.html" width=600 height=400></iframe>
+```
+
+## Additional Files
+- [Troponin dataset](material/09_test_of_hypotheses/troponin_dataset.zip)
+- [Class notes](material/09_test_of_hypotheses/test_of_hypotheses_notes.html)
+
+# Multiplicity
+
+```{=html}
+<iframe class="slide-deck" src="material/10_multiplicity/multiplicity_slides.html" width=600 height=400></iframe>
+```
+
+## Additional Files
+- [Cortex Nuclear dataset](material/10_multiplicity/cortex_nuclear_dataset.zip)
+- [Class notes](material/10_multiplicity/multiplicity_notes.html)
+
+# Analysis of Variance
+
+{{< pdf material/11_analysis_of_variance/analysis_of_variance_slides.pdf width=600 height=400 >}}
+
+## Additional Files
+- [Cancer Vaccine dataset](material/11_analysis_of_variance/cancer_vaccine_dataset.zip)
+- [Class notes](material/11_analysis_of_variance/oneway_anova_notes.html)

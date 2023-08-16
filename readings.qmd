@@ -1,0 +1,36 @@
+---
+title: "Readings"
+format:
+  html:
+    toc: true
+---
+
+# Translational Research
+
+a)  Pound P, Ritskes-Hoitinga M. *Is it possible to overcome issues of external validity in preclinical animal research? Why most animal models are bound to fail. Journal of translational medicine.* 2018 Dec;16(1):1-8.
+b)  Schmidt‐Pogoda A, Bonberg N, Koecke MH, Strecker JK, Wellmann J, Bruckmann NM, Beuker C, Schäbitz WR, Meuth SG, Wiendl H, Minnerup H. *Why most acute stroke studies are positive in animals but not in patients: a systematic comparison of preclinical, early phase, and phase 3 clinical trials of neuroprotective agents*. Annals of neurology. 2020 Jan;87(1):40-51.
+c)  Austin CP. *Opportunities and challenges in translational science*. Clinical and Translational Science. 2021 Sep;14(5):1629-47.
+
+# Reproducibility in Science
+
+a)  Begley CG, Ioannidis JP. *Reproducibility in science: improving the standard for basic and preclinical research*. Circulation research. 2015 Jan 2;116(1):116-26.
+b)  Begley CG, Ellis LM. *Raise standards for preclinical cancer research*. Nature. 2012 Mar;483(7391):531-3.
+c)  Errington TM, Denis A, Perfito N, Iorns E, Nosek BA. *Reproducibility in Cancer Biology: Challenges for assessing replicability in preclinical cancer biology*. eLife. 2021 Dec 7;10:e67995.
+
+# Reporting in Pre-clinical sciences
+
+a)  \[Percie du Sert N, Ahluwalia A, Alam S, Avey MT, Baker M, Browne WJ, Clark A, Cuthill IC, Dirnagl U, Emerson M, Garner P. *Reporting animal research: Explanation and elaboration for the ARRIVE guidelines 2.0*. PLoS biology. 2020 Jul 14;18(7):e3000411.\]
+b)  Avey MT, Moher D, Sullivan KJ, Fergusson D, Griffin G, Grimshaw JM, Hutton B, Lalu MM, Macleod M, Marshall J, Mei SH. *The devil is in the details: incomplete reporting in preclinical animal research*. PLoS One. 2016 Nov 17;11(11):e0166733.
+c)  Serghiou S, Contopoulos-Ioannidis DG, Boyack KW, Riedel N, Wallach JD, Ioannidis JP. *Assessment of transparency indicators across the biomedical literature: How open is open?*. PLoS biology. 2021 Mar 1;19(3):e3001107.
+
+# Heterogeneity
+
+a)  Usui T, Macleod MR, McCann SK, Senior AM, Nakagawa S. *Meta-analysis of variation suggests that embracing variability improves both replicability and generalizability in preclinical research*. PLoS biology. 2021 May 19;19(5):e3001009.
+b)  Voelkl B, Vogt L, Sena ES, Würbel H. *Reproducibility of preclinical animal research improves with heterogeneity of study samples*. PLoS biology. 2018 Feb 22;16(2):e2003693.
+c)  Richter SH. *Systematic heterogenization for better reproducibility in animal experimentation*. Lab animal. 2017 Sep;46(9):343-9.
+
+# Sex as Biological Variable
+
+a)  Garcia-Sifuentes Y, Maney DL. *Reporting and misreporting of sex differences in the biological sciences*. eLife 2021;10:e70817
+b)  Woitowich NC, Beery A, Woodruff T. *Meta-research: a 10-year follow-up study of sex inclusion in the biological sciences*. eLife. 2020 Jun 9;9:e56344.
+c)  Beery AK. *Inclusion of females does not increase variability in rodent research studies. Current opinion in behavioral sciences*. 2018 Oct 1;23:143-9.
